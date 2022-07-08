@@ -9,6 +9,11 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 | Intro to UNIX and HPC | June 9-10 and June 16-17, 2022 | 8:30am-12:30pm | Larisa Morales | 
 | Intro to Git and GitHub | June 22, 2022 | 1:30pm-5:30pm | Adrien Osakwe| 
 | Introduction to NGS data preprosessing | July 7, 2022 | 1:30pm-5:30pm | Georgette Femerling |  
+| Intro to Dimensionality Reduction Methods | July 12, 2022 | 1:30pm-5:30pm | Dylan Mann-Krzisnik|
+| Intro to Machine Learning in Python | July 15-16, 2022 | 1:30pm-5:30pm | Tugce Gurbuz |
+| Data visualization in R |	July 26, 2022 | TBA | Octavia M. Dancu |	
+| Polygenic Risk Scores | July 27, 2022	| 1:30pm-5:30pm | Kevin Liang	|
+| Intro to R programming | TBA | 8:30am-12:30pm | Larisa Morales |
 
 
 ## Workshop Materials
