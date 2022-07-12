@@ -20,9 +20,11 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 
 * [Intro to UNIX and HPC](https://github.com/McGill-MiCM/)
 
-* [Intro to Git and GitHub](https://github.com/McGill-MiCM/)
+* [Intro to Git and GitHub]([https://github.com/McGill-MiCM/](https://github.com/McGill-MiCM/MiCM_IntroToGitHub))
 
 * [Introduction to NGS data preprosessing](https://github.com/McGill-MiCM/MiCM_ngsintro_summer2022)
+
+* [Intro to Dimensionality Reduction Methods](https://github.com/McGill-MiCM/)
 
 
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
