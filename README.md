@@ -24,7 +24,7 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 
 * [Introduction to NGS data preprosessing](https://github.com/McGill-MiCM/MiCM_ngsintro_summer2022)
 
-* [Intro to Dimensionality Reduction Methods](https://github.com/McGill-MiCM/)
+* [Intro to Dimensionality Reduction Methods](https://github.com/McGill-MiCM/MiCM2022_Dim_Reduction)
 
 
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
