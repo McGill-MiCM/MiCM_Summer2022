@@ -4,16 +4,16 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 
 ## Schedule
 
-| Topic | Date | Time | Instructor | 
-| ------| ---- | -----| ---------- |
-| Intro to UNIX and HPC | June 9-10 and June 16-17, 2022 | 8:30am-12:30pm | Larisa Morales | 
-| Intro to Git and GitHub | June 22, 2022 | 1:30pm-5:30pm | Adrien Osakwe| 
-| Introduction to NGS data preprosessing | July 7, 2022 | 1:30pm-5:30pm | Georgette Femerling |  
-| Intro to Dimensionality Reduction Methods | July 12, 2022 | 1:30pm-5:30pm | Dylan Mann-Krzisnik|
-| Intro to Machine Learning in Python | July 14-15, 2022 | 1:30pm-5:30pm | Tugce Gurbuz |
-| Data visualization in R |	July 26, 2022 | TBA | Octavia M. Dancu |	
-| Polygenic Risk Scores | July 27, 2022	| 1:30pm-5:30pm | Kevin Liang	|
-| Intro to R programming | TBA | 8:30am-12:30pm | Larisa Morales |
+| Topic | Date | Time | Instructor | Registration |
+| ------| ---- | -----| ---------- | ---------- |
+| Intro to UNIX and HPC | June 9-10 and June 16-17, 2022 | 8:30am-12:30pm | Larisa Morales | Closed |
+| Intro to Git and GitHub | June 22, 2022 | 1:30pm-5:30pm | Adrien Osakwe| Closed |
+| Introduction to NGS data preprosessing | July 7, 2022 | 1:30pm-5:30pm | Georgette Femerling | Closed |
+| Intro to Dimensionality Reduction Methods | July 12, 2022 | 1:30pm-5:30pm | Dylan Mann-Krzisnik| Closed  |
+| Intro to Machine Learning in Python | July 14-15, 2022 | 1:30pm-5:30pm | Tugce Gurbuz | Closed |
+| Data visualization in R |	July 26, 2022 | TBA | Octavia M. Dancu | [Open]() |
+| Polygenic Risk Scores | July 27, 2022	| 1:30pm-5:30pm | Kevin Liang	| Closed| 
+| Intro to R programming | TBA | 8:30am-12:30pm | Larisa Morales | Closed |
 
 
 ## Workshop Materials
