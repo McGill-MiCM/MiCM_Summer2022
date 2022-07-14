@@ -12,7 +12,7 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 | Intro to Dimensionality Reduction Methods | July 12, 2022 | 1:30pm-5:30pm | Dylan Mann-Krzisnik| Closed  |
 | Intro to Machine Learning in Python | July 14-15, 2022 | 1:30pm-5:30pm | Tugce Gurbuz | Closed |
 | Data visualization in R |	July 26, 2022 | TBA | Octavia M. Dancu | [Open](https://forms.gle/L4vo7dHNK7GwoWQU6) |
-| Polygenic Risk Scores | July 27, 2022	| 1:30pm-5:30pm | Kevin Liang	| [Open soon]()| 
+| Polygenic Risk Scores | July 27, 2022	| 1:30pm-5:30pm | Kevin Liang	| [Open soon](https://forms.gle/DBsPSaUnMvYUbWAE9)| 
 | Intro to R programming | TBA | 8:30am-12:30pm | Larisa Morales | Closed |
 
 
