@@ -26,5 +26,6 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 
 * [Intro to Dimensionality Reduction Methods](https://github.com/McGill-MiCM/MiCM2022_Dim_Reduction)
 
+* [Intro to Machine Learning](https://github.com/McGill-MiCM/MiCM2022_Introduction-to-ML)
 
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
