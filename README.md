@@ -28,7 +28,7 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 
 * [Intro to Machine Learning](https://github.com/McGill-MiCM/MiCM2022_Introduction-to-ML)
 
-* [Data Visualization in R]()
+* [Data Visualization in R](https://github.com/McGill-MiCM/Data-Visualization-in-R-Essentials-and-Optimization)
 
 * [Intro to Polygenic Risk Scores]()
 
