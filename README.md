@@ -30,6 +30,6 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 
 * [Data Visualization in R](https://github.com/McGill-MiCM/Data-Visualization-in-R-Essentials-and-Optimization)
 
-* [Intro to Polygenic Risk Scores]()
+* [Intro to Polygenic Risk Scores](https://github.com/McGill-MiCM/Intro_PRS)
 
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
