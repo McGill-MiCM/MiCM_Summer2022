@@ -18,7 +18,7 @@ This repository contains all the materials of the Summer 2022 Workshop Series. T
 
 ## Workshop Materials
 
-* [Intro to UNIX and HPC](https://github.com/McGill-MiCM/)
+* [Intro to UNIX and HPC](https://github.com/McGill-MiCM/Intro_Unix_Summer2022)
 
 * [Intro to Git and GitHub](https://github.com/McGill-MiCM/MiCM_IntroToGitHub)
 
